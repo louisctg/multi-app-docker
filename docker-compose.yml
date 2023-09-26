@@ -48,3 +48,4 @@ services:
     environment:
       - REDIS_HOST=redis
       - REDIS_PORT=6379
+      - WDS_SOCKET_PORT=0
